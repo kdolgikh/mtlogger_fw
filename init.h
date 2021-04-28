@@ -12,7 +12,6 @@
 #ifndef INIT_H_
 #define INIT_H_
 
-
 /**
  * 	\brief Enables fast wake up time from LPM0-4
  *
